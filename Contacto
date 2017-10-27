@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <link rel="stylesheet" href="style.css" />
+        <!--[if lt IE 9]>
+        <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+        <![endif]-->
+        <title>DISTRIBUCIONES FILADELFIA - Ferreterias</title>
+    </head>
+    
+    <!--[if IE 6 ]><body class="ie6 old_ie"><![endif]-->
+    <!--[if IE 7 ]><body class="ie7 old_ie"><![endif]-->
+    <!--[if IE 8 ]><body class="ie8"><![endif]-->
+    <!--[if IE 9 ]><body class="ie9"><![endif]-->
+    <!--[if !IE]><!--><body><!--<![endif]-->
+        <div id="main_wrapper">
+            <header>
+                <div id="main_title">
+                    <img src="images/zozor_logo.png" alt="Zozor logo" id="logo" />
+                    <h1>Distribuciones Filadelfia</h1>
+                    <h2>Ferreterias</h2>
+                </div>
+               
+                <nav>
+                    <ul>
+                        <li><a href="index.html">Inicio</a></li>
+                        <li><a href="pagina1.html">Productos</a></li>
+                        <li><a href="pagina2.html">Ofertas</a></li>
+                        <li><a href="pagina3.html">Contacto</a></li>
+                    </ul>
+                </nav>
+            </header>
+           
+<br>
+			<br>
+
+		
+
+<table align='center' border='1' width='100%'>
+<tr>
+<td colspan='4' align='center' bgcolor='#fcfcfc'><H1>PRODUCTOS AL SERVICIO</H1></td>
+
+</tr>
+<tr>
+<td rowspan='6'><img src='images/pic1.jpg'></td>
+<td rowspan='6'><img src='images/pic1.jpg'></td>
+<td rowspan='6'><img src='images/pic1.jpg'></td>
+<td rowspan='6'><img src='images/pic1.jpg'></td>
+</tr>
+<tr>
+
+
+
+
+</tr>
+<tr>
+
+
+
+
+</tr>
+<tr>
+
+
+
+
+</tr>
+<tr>
+
+
+
+
+</tr>
+<tr>
+
+
+
+
+</tr>
+<tr>
+<td>texto11</td>
+<td>texto12</td>
+<td>texto13</td>
+<td>texto14</td>
+</tr>
+</TABLE>
+
+
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+
+
+
+
+<details> <summary><B><I>INGRESE SUS DATOS. "PORFAVOR DESGLOCE"</I></B></summary> 
+													<p>ESTO ES SU CONTENIDO....
+															<h2><B> SU NUMERO TELEFONICO ES : </B></H2>
+																	</br><input type=“tel"></br>
+																	<h2><B>SU CORREO ES :</B></H2>
+																	</br><input type="email"></br>
+																	<h2><B> SU DIRECCION ES :</B></H2>
+																	</br> <input type=“url"></br>
+															
+											
+													</p> 
+										</details>
+
+										<BR>
+<BR>
+<BR>
+<BR>
+
+										<form>
+								<input name ="name"placeholder="Buscar aqui">
+								<input type ="submit" value="BUSCAR">
+								</FORM>
+								<BR>
+								<BR>
+								<BR>
+								<BR>
+								
+								
+								
+								
+<table align='center' width='40%' border='0'>
+<form name='f1' method='POST' action='procesa.php'>
+
+
+<tr>
+
+
+<td colspan='2'   align='center' background='img/trabajo.jpg' width='100'><h1>REGISTROS DE CLIENTES</H1></td>
+
+</tr>
+
+<tr>
+<td width='20%'  bgcolor='#ffccaa'><b>NOMBRE:</b></td>
+<td width='70%'><input type='text' name='txtnom'  /></td>
+</tr>
+
+
+
+<td bgcolor='#ffccaa'><b>SEXO:</b></td>
+<td><input type='radio' name='rb_sexo' value='opmas' />Masculino
+<input type='radio' name='rb_sexo' value='opfem'/>Femenino</td>
+</tr>
+
+<tr>
+<td width='20%' bgcolor='#ffccaa'><b>RUC:</b></td>
+<td width='70%'><input type='text' name='txtnom' /></td>
+</tr>
+<tr>
+<td width='20%' bgcolor='#ffccaa'><b>DIRECCION:</b></td>
+<td width='70%'><input type='text' name='txtnom' /></td>
+</tr>
+<tr>
+<td width='20%' bgcolor='#ffccaa'><b>DISTRITO:</b></td>
+<td width='70%'><input type='text' name='txtnom' /></td>
+</tr>
+<tr>
+<td width='20%' bgcolor='#ffccaa'><b>CELULAR:</b></td>
+<td width='70%'><input type='text' name='txtnom' /></td>
+</tr>
+
+<tr>
+<td width='20%' bgcolor='#ffccaa'><b>TELEFONO:</b></td>
+<td width='70%'><input type='text' name='txtnom' /></td>
+</tr>
+<tr>
+<td width='20%' bgcolor='#ffccaa'><b>TIPO DE CLIENTE:</b></td>
+<td><input type='checkbox' name='chkdep' value='futbol' />minorista
+<input type='checkbox' name='chkdep' value='vole' />mayorista
+<input type='checkbox' name='chkdep' value='vole' />otros : 
+<input type='text' name='txtnom' </td>
+
+</tr>
+
+
+
+<tr>
+<td bgcolor='#ffccaa'><b>CONDICION:</b></td>
+<td>
+<select name="" id="">
+			<option value="Mexico">CREDITO</option>
+			<option value="Colombia">CONTADO</option>
+			<option value="Colombia">TARJETA</option>
+</select>
+</td>
+</tr>
+
+
+
+
+<tr>
+<td width='40%' bgcolor='#ffccaa'><b>FECHA DE CREACION:</b></td>
+<td width='70%'><input type='text' name='txtnom' /></td>
+</tr>
+
+<td bgcolor='#ffccaa'><b>DESCRIPCION DE LA EMPRESA:</b></td>
+<td><textarea name='txtobs'></textarea></td>
+</tr>
+
+
+<tr>
+<td colspan='2' align='center' background='img/practica.jpg'>
+<input type='submit' name=cmdenviar' value='Procesar' />
+<input type='reset' name=cmdlimpia' value='Limpiar' />
+</td>
+</tr>
+
+</form>
+</table>
+
+		   
+    </body>
+	</html>
+			
